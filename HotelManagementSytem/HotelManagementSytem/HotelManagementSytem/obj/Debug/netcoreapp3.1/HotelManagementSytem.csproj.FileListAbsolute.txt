@@ -1,0 +1,13 @@
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\bin\Debug\netcoreapp3.1\HotelManagementSytem.exe
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\bin\Debug\netcoreapp3.1\HotelManagementSytem.deps.json
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\bin\Debug\netcoreapp3.1\HotelManagementSytem.runtimeconfig.json
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\bin\Debug\netcoreapp3.1\HotelManagementSytem.runtimeconfig.dev.json
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\bin\Debug\netcoreapp3.1\HotelManagementSytem.dll
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\bin\Debug\netcoreapp3.1\HotelManagementSytem.pdb
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.csproj.AssemblyReference.cache
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.AssemblyInfoInputs.cache
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.AssemblyInfo.cs
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.csproj.CoreCompileInputs.cache
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.dll
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.pdb
+C:\Users\aytac.r\source\repos\HotelManagementSytem\HotelManagementSytem\HotelManagementSytem\obj\Debug\netcoreapp3.1\HotelManagementSytem.genruntimeconfig.cache
